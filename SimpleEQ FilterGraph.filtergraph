@@ -61,10 +61,26 @@
       </OUTPUTS>
     </LAYOUT>
   </FILTER>
-  <FILTER uid="5" x="0.66125" y="0.6211538461538462" useARA="0">
+  <FILTER uid="6" x="0.68875" y="0.4307692307692308" useARA="0" uiLastX_Normal="310"
+          uiLastY_Normal="356" uiopen_Normal="1">
+    <PLUGIN name="AUAudioFilePlayer" format="AudioUnit" category="Generator"
+            manufacturer="Apple" version="1.6.0" file="AudioUnit:Generators/augn,afpl,appl"
+            uniqueId="6163676e" isInstrument="0" fileTime="0" infoUpdateTime="18ae1c32882"
+            numInputs="0" numOutputs="2" isShell="0" hasARAExtension="0"
+            uid="6163676e"/>
+    <STATE>584.hAGaoMGcv.C1AHv.DTfAGfPBJr.Gc3wGgvUag4VclE1XzUmbkIGUjEFcg8EDarVPUAkbkMWYzAUYxMWZyQWYtQ2TzEFcksTY4c0b0IFc4AWYWYWYxMWZu4FUzkGbk8EDOXVZrUVKxUlYkIWYtMVYyQkag0VYRDFbvwFPgxvzM3vCPDQFXYTZrUlSg0VYWIUYmk1atMmWIM2TkwVYiQWYjYTZrU1WPn0KUMWYxM2K48lahUWZuzTcyk1XuzTcyk1XuzTYjkVXtv1aiEFaooWYj8RS0MWZi8RUtslaucmafDjbzk1bz8RUtslaucmafDDahUWauf1asUFHy8lam4RavMSnRP8DTTgEWfQFZ3kTkcVZu4FQuU1bL81avokTkcVZu4FQgQWXeAADIM2TkwVYiQWYjIUYmk1atokTkcVZu4lSg0VYH7DDvA...........uMyqE.....AZE1GA....f81LuV.....C..........XZy7ZA....fZjFrZ..PvgA...............................................A................jvp......PBZ4TY2AhTkcVZu4VBRDlYvwFD.HQX0claQCBDVYTZrUFHwfUUtQWZzwVYjA.B.jA.l.vJ.jD.QAPV.3E.vAPc.nG.6APe.PH.MBPk.PZ.ADv.AvP.aDfIAjS.DEPQAfa.4F.wATb.JG.yADc.TGv1........BD..........h...................APN</STATE>
+    <LAYOUT>
+      <INPUTS/>
+      <OUTPUTS>
+        <BUS index="0" layout="L R"/>
+      </OUTPUTS>
+    </LAYOUT>
+  </FILTER>
+  <FILTER uid="9" x="0.64375" y="0.6403846153846153" useARA="0" uiLastX_Normal="991"
+          uiLastY_Normal="309" uiopen_Normal="1">
     <PLUGIN name="Simple EQ" format="VST3" category="Fx" manufacturer="yourcompany"
             version="1.0.0" file="/Users/yonbui/Library/Audio/Plug-Ins/VST3/Simple EQ.vst3"
-            uniqueId="f19bea27" isInstrument="0" fileTime="18addf41eb8" infoUpdateTime="18addf5fc5c"
+            uniqueId="f19bea27" isInstrument="0" fileTime="18ae1c27cee" infoUpdateTime="18ae1c32882"
             numInputs="2" numOutputs="2" isShell="0" hasARAExtension="0"
             uid="acf49bce"/>
     <STATE>191.VMjLgXK....O+fWarAhckI2bo8la8HRLt.iHfTlai8FYo41Y8HRUTYTK3HxO9.BOVMEUy.Ea0cVZtMEcgQWY9vSRC8Vav8lak4Fc9XCLt3hKt3hKt3hKt3hYRUUSTEETIckVwTjQisVTTgkdEYjKAQjYPQSPWgUdMcjKAQjct3hdA4hKt3hKt3hKtnTUv.UQAslXuk0UXoWUFE0YQcEV77RRC8Vav8lak4Fc9vyKVMEUy.Ea0cVZtMEcgQWY9..</STATE>
@@ -77,23 +93,8 @@
       </OUTPUTS>
     </LAYOUT>
   </FILTER>
-  <FILTER uid="6" x="0.715" y="0.4307692307692308" useARA="0" uiLastX_Normal="310"
-          uiLastY_Normal="356" uiopen_Normal="0">
-    <PLUGIN name="AUAudioFilePlayer" format="AudioUnit" category="Generator"
-            manufacturer="Apple" version="1.6.0" file="AudioUnit:Generators/augn,afpl,appl"
-            uniqueId="6163676e" isInstrument="0" fileTime="0" infoUpdateTime="18addf5fc5d"
-            numInputs="0" numOutputs="2" isShell="0" hasARAExtension="0"
-            uid="6163676e"/>
-    <STATE>584.hAGaoMGcv.C1AHv.DTfAGfPBJr.Gc3wGgvUag4VclE1XzUmbkIGUjEFcg8EDarVPUAkbkMWYzAUYxMWZyQWYtQ2TzEFcksTY4c0b0IFc4AWYWYWYxMWZu4FUzkGbk8EDOXVZrUVKxUlYkIWYtMVYyQkag0VYRDFbvwFPgxvzM3vCPDQFXYTZrUlSg0VYWIUYmk1atMmWIM2TkwVYiQWYjYTZrU1WPn0KUMWYxM2K48lahUWZuzTcyk1XuzTcyk1XuzTYjkVXtv1aiEFaooWYj8RS0MWZi8RUtslaucmafDjbzk1bz8RUtslaucmafDDahUWauf1asUFHy8lam4RavMSnRP8DTTgEWfQFZ3kTkcVZu4FQuU1bL81avokTkcVZu4FQgQWXeAADIM2TkwVYiQWYjIUYmk1atokTkcVZu4lSg0VYH7DDvA...........uMyqE.....AZE1GA....f81LuV.....C..........XZy7ZA....fZjFrZ..PvgA...............................................A................jvp......PBZ4TY2AhTkcVZu4VBRDlYvwFD.HQX0claQCBDVYTZrUFHwfUUtQWZzwVYjA.B.jA.l.vJ.jD.QAPV.3E.vAPc.nG.6APe.PH.MBPk.PZ.ADv.AvP.aDfIAjS.DEPQAfa.4F.wATb.JG.yADc.TGv1........BD..........h...................APN</STATE>
-    <LAYOUT>
-      <INPUTS/>
-      <OUTPUTS>
-        <BUS index="0" layout="L R"/>
-      </OUTPUTS>
-    </LAYOUT>
-  </FILTER>
-  <CONNECTION srcFilter="5" srcChannel="0" dstFilter="3" dstChannel="0"/>
-  <CONNECTION srcFilter="5" srcChannel="1" dstFilter="3" dstChannel="1"/>
-  <CONNECTION srcFilter="6" srcChannel="0" dstFilter="5" dstChannel="0"/>
-  <CONNECTION srcFilter="6" srcChannel="1" dstFilter="5" dstChannel="1"/>
+  <CONNECTION srcFilter="6" srcChannel="0" dstFilter="9" dstChannel="0"/>
+  <CONNECTION srcFilter="6" srcChannel="1" dstFilter="9" dstChannel="1"/>
+  <CONNECTION srcFilter="9" srcChannel="0" dstFilter="3" dstChannel="0"/>
+  <CONNECTION srcFilter="9" srcChannel="1" dstFilter="3" dstChannel="1"/>
 </FILTERGRAPH>
